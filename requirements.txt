@@ -1,0 +1,6 @@
+aiogram>=3.25
+kurigram
+tgcrypto
+py-tgcalls
+static-ffmpeg
+imageio-ffmpeg
